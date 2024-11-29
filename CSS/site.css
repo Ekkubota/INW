@@ -2,21 +2,13 @@ body{
     background-color: aquamarine;
 }
 
-.carousel-item img{
-    width: auto;
-    height: auto;
-}
-
-.carousel-inner{
-    max-width: 50%;
-    margin: auto;
-}
-
-.image-text-container img{
-  width: 100%;
-  max-width: 300px;
-  height: auto;
-}
+#carouselExampleIndicators{
+    width: 1080px;
+    height: 720px;
+    text-align: center;
+    margin: 0 auto;
+    top: 50px;
+  }
 
 .secao{
     margin: 0;
